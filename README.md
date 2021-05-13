@@ -1,11 +1,33 @@
-# Flowers Mobile First Design
+# Flowers  Responsive Website
  
-A website that prioritizes mobile design created from scratch.
+### Udemy the Web Developer Bootcamp project.
+
+> Udemy project, which includes extensive bootstrap applications. Different sections of the bootstrap are used for the layout of the page and the movements of the parts. Media query is included for different resolution behaviors.
+
+From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
 
 
 
-Please click on the link below to view it.
+## Live Demo
 
-https://pirci.github.io/flowers-responsive/
+Preview:  https://pirci.github.io/flowers-responsive/
 
-![homepage](https://user-images.githubusercontent.com/43238947/115607930-e352d880-a2e5-11eb-9c82-646f185b69fe.png)
+
+![flowers-homepage](demo.gif)
+
+## What I Learned:
+
+- Page layout provided with bootstrap
+- Learned using Jquery library
+- JavaScript used for toggle navbar
+- Multiple types of CSS selectors
+
+
+
+## Possible Improvements
+
+- More code reviews can be added for teamwork
+- Content can be enriched
+- Could make the page layout more pleasing to the eye
+- Formatting could be improved when viewing on certain devices/browsers
+
